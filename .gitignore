@@ -34,3 +34,5 @@ dist/
 # builds
 sidekick
 sidekick-local
+
+dist/

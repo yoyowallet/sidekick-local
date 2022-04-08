@@ -70,6 +70,10 @@ GLOBAL OPTIONS:
 ### create a release by using goreleaser
 ```shell
 
+export GITHUB_TOKEN="your_private_token"
+
+goreleaser release --snapshot
+
 goreleaser release
 
 // OR
